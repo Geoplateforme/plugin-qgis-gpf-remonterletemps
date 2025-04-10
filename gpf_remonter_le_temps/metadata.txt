@@ -1,0 +1,26 @@
+[general]
+name=GPF - Remonter Le Temps
+about=Consluter et comparer l'imagerie historique proposée par le site Remonter Le Temps de l'IGN
+category=Web
+hasProcessingProvider=False
+description=Intégration du service RLT dans QGIS.
+icon=resources/images/default_icon.png
+tags=IGN,Géoplateforme,remonter le temps,RLT,historique,imagerie,comparer
+
+# credits and contact
+author=Julien Moura
+email=qgis@oslandia.com
+homepage=https://github.com/Geoplateforme/plugin-qgis-gpf-remonterletemps
+repository=https://github.com/Geoplateforme/plugin-qgis-gpf-remonterletemps
+tracker=https://github.com/Geoplateforme/plugin-qgis-gpf-remonterletemps/issues/
+
+# experimental flag
+deprecated=False
+experimental=True
+qgisMinimumVersion=3.40
+qgisMaximumVersion=3.99
+qt6_compatible=True
+
+# versioning
+version=0.1.0
+changelog=
