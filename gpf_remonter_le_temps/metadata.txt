@@ -5,7 +5,7 @@ category=Web
 hasProcessingProvider=False
 description=Intégration du service RLT dans QGIS.
 icon=resources/images/default_icon.png
-tags=IGN,Géoplateforme,remonter le temps,RLT,historique,imagerie,comparer
+tags=IGN,Géoplateforme,geoplateforme, remonter le temps,RLT,historique,imagerie,comparer
 
 # credits and contact
 author=Julien Moura
